@@ -1,5 +1,7 @@
 # Nigeria-COVID-19-Data-Analysis-Using-Python
 Data Scientist Microdegree Capstone Project
+## Executive summary
+The "Nigeria COVID-19 Data Analysis Using Python" Capstone Project is a comprehensive data science initiative aimed at analyzing COVID-19 data specific to Nigeria. This project utilizes Python and various data analysis techniques to extract valuable insights from diverse data sources, including the Nigeria Centre for Disease Control (NCDC), the Global Daily Confirmed Cases Dataset, the Global Daily Recovered Cases Dataset, and the Global Daily Death Cases Dataset from John Hopkins Repository. Additionally, external data sources such as RealGDP.csv, covid_external.csv, and coviding.csv have been integrated for a holistic analysis.
 ## Table of Contents
 * Introduction
 * Project Overview
@@ -47,6 +49,4 @@ Contributions to this project are welcome! If you'd like to contribute or report
 * Create a new branch for your feature or bug fix.
 * Make your changes and test them thoroughly.
 * Submit a pull request with a clear description of your changes.
-
-
 
